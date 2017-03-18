@@ -1,5 +1,9 @@
-Cette nouvelle et derniere version de notre projet comprend les nouvelles fonctionnalités suivante:
--changement de regle par l'utilisateur
--gestion de l'erreur de saisi des nouvelles regles
--nouvelle fonction "demarer/pause"
+# John Horton Conway's Game of Life
 
+![Project visual](https://github.com/tlentali/Game_of_Life/blob/master/Rapport/capture_game.png)
+
+Python project made with Angelina Pidash during our last year of Master Degree at Université de Bordeaux, France.
+
+
+## Execute
+`python2 Game_of_life.py`
